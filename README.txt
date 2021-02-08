@@ -1,34 +1,7 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+About me: 
+I'm a seasoned technical professional with hands-on experience in Telecommunications and Data Networking Industry while being associated with ICT giants like Ericsson & Mavenir Systems.
+I have a demonstrated track record across all the phases of technical project delivery from solution designing, integration of IMS and ETSI-NFV to Test case designing for Customer Go-Live sign off.
+I am an assertive "Go Getter" and strong believer in the notion of “learning by doing”.
+Inspired by DIKW Pyramid, I love indulging in cross domain meet-ups to gain more information and hence increase knowledge.
+I am an audiophile with an innate urge to sense the intricate details without loosing the track.
+Feel free to reach out at vaibhavchawla23@gmail.com, for a chit-chat or a cup of coffee. :)
